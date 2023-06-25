@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.flex-item {
+  flex: 0.25;
+  color: rgb(7, 41, 7);
+  background-color: aquamarine;
+  padding-bottom: 1%;
+}
+
+.flex-item2 {
+  flex: 0.1;
+  color: blue;
+  border-style: dotted;
+}
+
+.flex-item3 {
+  flex: 4;
+}
+
+.flex-item4 {
+  flex: 0.2;
+  text-align: center;
+  background-color: #61dafb;
+}

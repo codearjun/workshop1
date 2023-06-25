@@ -1,7 +1,7 @@
 function Nav(props) {
   return (
     <div>
-      <nav>pppp </nav>
+      <nav>Navigation Bar WIP </nav>
     </div>
   );
 }
